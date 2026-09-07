@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="اتصال">
+  <defs><linearGradient id="c" y2="1"><stop stop-color="#78f55d"/><stop offset="1" stop-color="#19b829"/></linearGradient></defs>
+  <rect width="64" height="64" rx="15" fill="url(#c)"/>
+  <path d="M20 13c2-1 4-.2 5 1.8l4 8.8c.7 1.6.2 3.4-1.1 4.5l-3 2.5c3.4 6.3 7.9 10.9 14.3 14.2l2.5-3c1.1-1.3 2.9-1.8 4.5-1.1l8.8 4c2 .9 2.8 3.2 1.8 5.1-1.8 3.5-5.3 5.7-9.2 5.5C29.5 54.6 9.4 34.5 8.7 16.4c-.2-3.9 2-7.4 5.5-9.2Z" fill="#fff" transform="scale(.82) translate(7 5)"/>
+</svg>
